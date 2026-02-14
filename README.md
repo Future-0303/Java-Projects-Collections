@@ -10,7 +10,7 @@ This repository contains a wide variety of Java projects and code samples, rangi
 
 All projects are organized in folders for easy exploration and learning.
 
-## How to Use
+## How to Use this
 - Browse the folders to discover projects by topic or interest.
 - Each project may have its own README or documentation.
 - Use the code for learning, reference, or as a starting point for your own Java projects.
